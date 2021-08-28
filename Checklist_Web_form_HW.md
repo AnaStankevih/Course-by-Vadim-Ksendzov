@@ -2,7 +2,7 @@
 
 *Author: Anstasiya Stankevich*
 
-## Checklist Web Form
+## 1 Checklist Web Form
 
 Link to Web Form: http://itcareer.pythonanywhere.com/ 
 
@@ -14,8 +14,18 @@ Link to Web Form: http://itcareer.pythonanywhere.com/
 | C-4             |                               |                                                      |              | 
 
 
-**Values** 
+## 2 Checklist Web Form Fields
 
+| ID              | Functional Area (module)      | Checks                                               | Test Status  |
+| --------------- |-------------------------------|------------------------------------------------------|--------------|
+| C-1             |                               |                                                      |              | 
+| C-2             |                               |                                                      |              |
+| C-3             |                               |                                                      |              |                    
+| C-4             |                               |                                                      |              |
+
+
+
+**Values** 
 
 | Execution       |
 | --------------- |

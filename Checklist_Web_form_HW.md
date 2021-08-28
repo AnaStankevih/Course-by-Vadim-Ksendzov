@@ -18,12 +18,12 @@ Link to Web Form: http://itcareer.pythonanywhere.com/
 **Values** 
 
 
-| Execution       |                                                  
-| --------------- |
-| Passed          |              
-| Failed          |                                     
-| Not Tested      |                                                   
-| Blocked         | 
+| Execution       |bg;ob;       |
+| --------------- |-------------|
+| Passed          |             |          
+| Failed          |             |                      
+| Not Tested      |             |                                    
+| Blocked         |             |
            
 
 

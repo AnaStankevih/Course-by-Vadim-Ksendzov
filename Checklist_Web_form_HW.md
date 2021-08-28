@@ -46,7 +46,7 @@ Link to Web Form: http://itcareer.pythonanywhere.com/
 | C_14   |                          | Verify user is able to edit data in the field                                                |              |
 | C_15   |                          | Check input unicode in the field                                                             |              |
 | C_16   |                          | Verify the fail feedback is displayed to highlight mistakes in the field                     |              |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|        |                                                                                                                         |              |
 | C_1    | Surname field            | Verify the input valid data in the field                                                     |              |
 | C_2    |                          | Verify the minimum character limit of the field				          | 	   |
 | C_3    |                          | Verify the maximum character limit of the field                                              |              |
@@ -64,7 +64,7 @@ Link to Web Form: http://itcareer.pythonanywhere.com/
 | C_15   |                          | Check input unicode in the field                                                             |              |
 | C_16   |                          | Verify the fail feedback is displayed to highlight mistakes in the field                     |              |
 | C_17   |                          | Check the field for input hyphenated combination of the two surnames (e.g. Casal-Giménez)    |              |
-|--------|--------------------------|----------------------------------------------------------------------------------------------|--------------|
+|        |                                                                                                                         |              |
 | C_1    | Email                    | Verify the field by entering the valid email address: contact@ahcstaff.com                   |              |                          
 | C_2    |                          | Verify the field by entering the valid email address: il@domain.com                          |              |
 | C_3    |                          | Verify the field by entering the valid email address: firstname.lastname@domain.com          |              | 
@@ -85,7 +85,7 @@ Link to Web Form: http://itcareer.pythonanywhere.com/
 | C_18   |                          | Verify the field by entering the invalid email address: email@.domain.com                    |              |
 | C_19   |                          | Verify the field by entering the invalid email address: Empty field                          |              |
 | C_20   |                          | Verify user is able to edit data in the field                                                |              |
-|--------|--------------------------|----------------------------------------------------------------------------------------------|--------------|
+|        |                                                                                                                         |              |
 | C_1    | Password                 | Verify that user is able to enter the password in the field                                  |              |
 | C_2    |                          | Check the password is encrypted or not (dots/asterisks)                                      |              |
 | C_3    |                          | Check the password filed by entering the space                                               |              |

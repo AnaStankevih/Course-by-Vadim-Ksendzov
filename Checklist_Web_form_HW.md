@@ -1,6 +1,5 @@
 *Web Form Testing Homework* 
 
-*Author: Anstasiya Stankevich*
 
 ## 1 Checklist Web Form
 

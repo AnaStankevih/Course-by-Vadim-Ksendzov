@@ -46,7 +46,7 @@ Link to Web Form: http://itcareer.pythonanywhere.com/
 | C_14   |                          | Verify user is able to edit data in the field                                                |              |
 | C_15   |                          | Check input unicode in the field                                                             |              |
 | C_16   |                          | Verify the fail feedback is displayed to highlight mistakes in the field                     |              |
-|--------|--------------------------|----------------------------------------------------------------------------------------------|--------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | C_1    | Surname field            | Verify the input valid data in the field                                                     |              |
 | C_2    |                          | Verify the minimum character limit of the field				          | 	   |
 | C_3    |                          | Verify the maximum character limit of the field                                              |              |

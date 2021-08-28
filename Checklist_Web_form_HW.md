@@ -26,6 +26,68 @@ Link to Web Form: http://itcareer.pythonanywhere.com/
 | C_17    |                          | Verify warning message is appeared after filling all required fields invalid data             | Passed        | 
 
 
+## 2 Checklist Web Form fields
+
+| ID     | Functional Area (module) | Checks                                                                                         | Test Status  |
+| -------|--------------------------|------------------------------------------------------------------------------------------------|--------------|
+| C_1    | Name field               | Verify the input valid data in the field                                                       |              |
+| C_2    |                          | Verify the minimum character limit of the field				            |              |
+| C_3    |                          | Verify the maximum character limit of the field                                                |              |
+| C_4    |                          | Check for latin alphabet is accepted in upper and lower case both                              |              | 
+| C_5    |                          | Check the field for numeric characters only                                                    |              |
+| C_6    |                          | Check copy/paste in the field                                                                  |              |
+| C_7    |                          | Verify the field by entering the special symbols                                               |              |
+| C_8    |                          | Verify the field place holder visible or not                                                   |              |
+| C_9    |                          | Check the field except only spaces as input                                                    |              |
+| C_10   |                          | Verify the value visible to the or not when type in the filed                                  |              |
+| C_11   |                          | Check input empty value in the filed                                                           |              |
+| C_12   |                          | Check input cyrillic letters in the field                                                      |              |
+| C_13   |                          | Check by entering spaces in the prefix and suffix of the entered character                     |              |
+| C_14   |                          | Verify user is able to edit data in the field                                                  |              |
+| C_15   |                          | Check input unicode in the field                                                               |              |
+| C_16   |                          | Verify the fail feedback is displayed to highlight mistakes in the field                       |              |
+|--------|--------------------------|------------------------------------------------------------------------------------------------|--------------|
+| C_1    | Surname field            | Verify the input valid data in the field                                                       |              |
+| C_2    |                          | Verify the minimum character limit of the field				            | 	     |
+| C_3    |                          | Verify the maximum character limit of the field                                                |              |
+| C_4    |                          | Check for latin alphabet is accepted in upper and lower case both                              |              | 
+| C_5    |                          | Check the field for numeric characters only                                                    |              |
+| C_6    |                          | Check copy/paste in the field                                                                  |              |
+| C_7    |                          | Verify the field by entering the special symbols                                               |              |
+| C_8    |                          | Verify the field place holder visible or not                                                   |              |
+| C_9    |                          | Check the field except only spaces as input                                                    |              |
+| C_10   |                          | Verify the value visible to the or not when type in the filed                                  |              |
+| C_11   |                          | Check input empty value in the filed                                                           |              |
+| C_12   |                          | Check input cyrillic letters in the field                                                      |              |
+| C_13   |                          | Check by entering spaces in the prefix and suffix of the entered character                     |              |
+| C_14   |                          | Verify user is able to edit data in the field                                                  |              |
+| C_15   |                          | Check input unicode in the field                                                               |              |
+| C_16   |                          | Verify the fail feedback is displayed to highlight mistakes in the field                       |              |
+| C_17   |                          | Check the field for input hyphenated combination of the two surnames (e.g. Casal-Giménez)      |              |
+|--------|--------------------------|------------------------------------------------------------------------------------------------|--------------|
+| C_1    | Email                    | Verify the field by entering the valid email address: contact@ahcstaff.com                     |              |                          
+| C_2    |                          | Verify the field by entering the valid email address: il@domain.com                          |              |
+| C_3    |                          | Verify the field by entering the valid email address: firstname.lastname@domain.com          |              | 
+| C_4    |                          | Verify the field by entering the valid email address: firstname-lastname@domain.com          |              |
+| C_5    |                          | Verify the field by entering the valid email address: firstname+lastname@domain.com          |              |
+| C_6    |                          | Verify the field by entering the valid email address: 1234567890@domain.com                  |              |
+| C_7    |                          | Verify the field by entering the valid email address: email@123.123.123.123                  |              |
+| C_8    |                          | Verify the field by entering the valid email address: email@domain-one.com                   |              |
+| C_9    |                          | Verify the field by entering the valid email address: name@localhost                         |              |  
+| C_10   |                          | Verify the field by entering the valid email address: _______@domain.com                     |              |
+| C_11   |                          | Verify the field by entering the valid email address: email@domain.co.jp                     |              |
+| C_12   |                          | Verify the field by entering the invalid email address: email.domain.com                     |              |
+| C_13   |                          | Verify the field by entering the invalid email address: @domain.com                          |              |
+| C_14   |                          | Verify the field by entering the invalid email address: @%^%#$@#$@#.com                      |              |
+| C_15   |                          | Verify the field by entering the invalid email address: email@domain@domain.com              |              |
+| C_16   |                          | Verify the field by entering the invalid email address: email..email@domain.com              |              |
+| C_17   |                          | Verify the field by entering the invalid email address: あいうえお@domain.com                   |              |
+| C_18   |                          | Verify the field by entering the invalid email address: email@.domain.com                    |              |
+| C_19   |                          | Verify the field by entering the invalid email address: Empty field                          |              |
+| C_20   |                          | Verify user is able to edit data in the field                                                |              |
+
+
+
 **Values** 
 
 | Execution       |

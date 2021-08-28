@@ -24,7 +24,7 @@ Link to Web Form: http://itcareer.pythonanywhere.com/
 | C-14    |                          | Verify that all the required fields are marked with asterisk symbol                           | Failed        |
 | C-15    |                          | Verify the web form by entering the valid data only in some required fields                   | Passed        |
 | C-16    |                          | Verify that after reload of the web form the data in the fields was clear                     | Passed        |
-| C-17    |                          | Verify warning message is appeared after filling all required fields invalid data             | Passed        | 
+| C-17      |                          | Verify warning message is appeared after filling all required fields invalid data             | Passed        | 
 
 
 ## 2 Checklist Web Form Fields
